@@ -1,2 +1,2 @@
 # sticky-solaros
-Playing with the SolarOS on the Reterminal sticky
+Playing with the SolarOS on the Reterminal sticky.  My main objective was to somehow get an epaper typewriter.  Somehow I've ended up programming my own device so that it does almost everything I want.  A reader, a typewriter, a tiny games machine - all available from a launcher, so we can use this with or without a keyboard.  I've made a few games, a one touch wifi connector, an epub reader and a weather app.  All of which will appear shortly 
